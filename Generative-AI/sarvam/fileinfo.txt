@@ -1,0 +1,4 @@
+inference.py is the main file to get the inference by loading all the trained models.
+RAG_sarvam.ipynb is rough work file used to create llm model on google colab.
+train_classification.py to train and save multinomial naive bayes model to classify subject of the query.
+./data/classification_data.py to craete csv data to tran multinomial naive bayes model. 
